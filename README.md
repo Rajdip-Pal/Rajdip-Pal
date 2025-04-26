@@ -3,14 +3,14 @@
 ---
 
 ### 👨‍💻 About Me
-- 👀 Passionate about **Web Development**, **Open Source**, and **Cybersecurity**.
-- 🌱 Currently learning **JavaScript**, **React.js**, **Node.js**, and **Ethical Hacking**.
-- 💬 Always eager to collaborate on **Web Dev Projects**, **Open Source Contributions**, and **CTF Challenges**.
+- 👀 Passionate about **Web Development**, **Open Source**.
+- 🌱 Currently learning **JavaScript**, **React.js**, **Node.js**.
+- 💬 Always eager to collaborate on **Web Dev Projects**, **Open Source Contributions**.
 - 📫 Reach me at:
   - [LinkedIn](https://www.linkedin.com/in/rajdip-pal/)
   - [Instagram](https://www.instagram.com/__rajdip_pal__/)
   - [Facebook](https://www.facebook.com/rp.rajdippal)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him  
 - ⚡ Fun fact: Sometimes I sketch my project ideas before I code them!
 
 ---
@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajdip-Pal&show_icons=true&theme=radical" alt="Rajdip Pal's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdip-Pal&layout=compact&theme=radical" alt="Top Languages" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdip-Pal&layout=compact&theme=radical" alt="Top Languages" /> -->
 </p>
 
 <p align="center">
@@ -40,10 +40,14 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
