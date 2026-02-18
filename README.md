@@ -53,7 +53,7 @@
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajdip-Pal&theme=tokyo-night" alt="Rajdip's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajdip-Pal&theme=react-dark" alt="Rajdip's Activity Graph" />
 </p>
 
 ---
